@@ -60,6 +60,9 @@ function onCalculate() {
 .wrapper {
   display: flex;
   flex-direction: column;
+  font-family: sans-serif;
+  margin: auto;
+  margin-top: 120px;
   gap: 20px;
   max-width: 400px;
 }
